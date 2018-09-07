@@ -1,0 +1,13 @@
+INPUT(
+./debug\main.o
+./debug\scoreboard.o
+./debug\scoreboard_shower.o
+./debug\dbinput.o
+./debug\connectionmaker.o
+./debug\timeandfolu.o
+./debug\mythread.o
+./debug\moc_scoreboard.o
+./debug\moc_scoreboard_shower.o
+./debug\moc_dbinput.o
+./debug\moc_timeandfolu.o
+);

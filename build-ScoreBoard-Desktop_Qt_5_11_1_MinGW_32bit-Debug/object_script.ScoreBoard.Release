@@ -1,0 +1,13 @@
+INPUT(
+./release\main.o
+./release\scoreboard.o
+./release\scoreboard_shower.o
+./release\dbinput.o
+./release\connectionmaker.o
+./release\timeandfolu.o
+./release\mythread.o
+./release\moc_scoreboard.o
+./release\moc_scoreboard_shower.o
+./release\moc_dbinput.o
+./release\moc_timeandfolu.o
+);
